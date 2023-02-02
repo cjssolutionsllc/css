@@ -1,0 +1,27 @@
+.main-menu {
+  background-color: #000d29;
+  color: #fff;
+}
+.navbar__toggler {
+  color: #a68e27;
+}
+
+navbar__logo {
+  color: #a68e27;
+}
+.btn-full {
+ border: 1px solid #a68e27;
+}
+.btn-full:hover {
+  background-color: #a68e27;
+}
+.header .user__ava {
+ background-color: #a68e27;
+  color: #fff;
+}
+.header .icon {
+  fill: #a68e27;
+}
+.header {
+   background-color: #fcb900;
+}
